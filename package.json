@@ -1,0 +1,20 @@
+{
+  "name": "fabric-vault-keyvaluestore",
+  "version": "0.0.1",
+  "description": "key value store connector to connect to hashicorp vault from fabric client node sdk",
+  "main": "keyValueStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koinearth/fabric-vault-keyValueStore.git"
+  },
+  "author": "Jaywardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koinearth/fabric-vault-keyValueStore/issues"
+  },
+  "homepage": "https://github.com/koinearth/fabric-vault-keyValueStore#readme",
+  "package-name": "git+https://ba571a0864322d9a6d518b05b63ee4834c208143:x-oauth-basic@github.com/jaywardhans@koinearth.com/fabric-vault-keyValueStore.git"
+}
